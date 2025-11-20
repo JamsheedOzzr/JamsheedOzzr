@@ -125,4 +125,11 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  <br />
+  <b>✨ Let's build something amazing together! ✨</b>
+</div>
+
+
 
