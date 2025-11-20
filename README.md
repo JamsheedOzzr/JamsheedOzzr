@@ -18,11 +18,25 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/dev.saheed ibnu jamsheed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.saheed ibnu jamsheed" height="30" width="40" /></a>
-<a href="https://instagram.com/@jamsheed_ozy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@jamsheed_ozy" height="30" width="40" /></a>
-</p>
+## 🔗 Connect with Me
+
+<div align="center">
+
+  <a href="https://instagram.com/jamsheed_ozy" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://wa.me/9061528349" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+  <a href="https://x.com/JamsheedOzzr" target="_blank">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+
+</div>
+
+---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
