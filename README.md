@@ -106,22 +106,19 @@ You can click the Preview link to take a look at your changes.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" 
-       src="https://github-readme-stats.vercel.app/api?username=jamsheedozzr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
-       
-  <img height="180em" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamsheedozzr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
+  <a href="https://github.com/jamsheedozzr">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamsheedozzr&layout=compact&theme=tokyonight&hide_border=true&card_width=400" alt="Top Languages" />
+  </a>
 </div>
 
 <div align="center">
-  <img 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=jamsheedozzr&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" />
+  <a href="https://github.com/jamsheedozzr">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jamsheedozzr&theme=tokyonight" alt="GitHub Profile Summary" width="90%" />
+  </a>
 </div>
 
-<div align="center">
-  <img 
-       src="https://github-readme-activity-graph.vercel.app/graph?username=jamsheedozzr&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" />
-</div>
+---
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -142,21 +139,27 @@ You can click the Preview link to take a look at your changes.
 
 
 
+
+
+
+
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/jamsheedozzr">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamsheedozzr&layout=compact&theme=tokyonight&hide_border=true&card_width=400" alt="Top Languages" />
-  </a>
+  <img height="180em" 
+       src="https://github-readme-stats.vercel.app/api?username=jamsheedozzr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
+       
+  <img height="180em" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamsheedozzr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
 </div>
 
 <div align="center">
-  <a href="https://github.com/jamsheedozzr">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jamsheedozzr&theme=tokyonight" alt="GitHub Profile Summary" width="90%" />
-  </a>
+  <img 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=jamsheedozzr&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" />
 </div>
 
----
-
-
+<div align="center">
+  <img 
+       src="https://github-readme-activity-graph.vercel.app/graph?username=jamsheedozzr&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" />
+</div>
 
