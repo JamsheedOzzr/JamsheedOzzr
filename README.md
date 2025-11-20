@@ -133,3 +133,30 @@ You can click the Preview link to take a look at your changes.
 
 
 
+
+
+
+
+
+
+
+
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/jamsheedozzr">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamsheedozzr&layout=compact&theme=tokyonight&hide_border=true&card_width=400" alt="Top Languages" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/jamsheedozzr">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jamsheedozzr&theme=tokyonight" alt="GitHub Profile Summary" width="90%" />
+  </a>
+</div>
+
+---
+
+
+
