@@ -142,29 +142,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" 
-       src="https://github-readme-stats.vercel.app/api?username=jamsheedozzr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
-       
-  <img height="180em" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamsheedozzr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
-</div>
-
-<div align="center">
-  <img 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=jamsheedozzr&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" />
-</div>
-
-<div align="center">
-  <img 
-       src="https://github-readme-activity-graph.vercel.app/graph?username=jamsheedozzr&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" />
-</div>
-
-
-
-
 ## 📈 Contribution Graph
 
 <div align="center">
