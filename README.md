@@ -147,10 +147,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
-
-
- <div align="center" style="width: 100%">
+<div align="center" style="width: 100%">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
     <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
   </a>
