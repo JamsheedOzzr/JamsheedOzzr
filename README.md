@@ -158,30 +158,77 @@ You can click the Preview link to take a look at your changes.
 
 
 
+### What's Up?
 
-> Want to know what I'm currently working on ?\
-> Checkout [@lowlighter's todos](https://github.com/users/lowlighter/projects/9)
-> 
-> *PS: I haven't been very active on [jamsheedozzr/metrics](https://github.com/jamsheedozzr/metrics) recently, but it's still in the boxes taking a bit longer than expected to build up the bricks !*
-> - [x] [`mizu.js`](https://mizu.sh) will power the SVG templating
-> - [x] [`matcha.css`](https://matcha.mizu.sh) will offer the base design of SVG
-> - [x] [`vercel-deno`](https://github.com/jamsheedozzr/vercel-deno) will let users self-host their own instance super easily and freely
-> - [x] [`astral`](https://github.com/lino-levan/astral/pulls?q=is%3Apr+author%3Alowlighter) will act as the sandboxed browser automation used to scrap the web and render SVGs
-> - [x] [`libs`](https://jsr.io/@libs) will expose a collection of utilitaries to make maintaining projects easier 
-> - [ ] [`esquie.app`](https://esquie.app) will allow the creation of metrics workflow to generate, render and publish infographics in a flexible way
->   - → I'm working actively on this currently (updated 25 nov 2025)
-> 
-> *Thanks for your patience and continued support !*
+I’m **Eli**—a **Software Engineer** with a passion for **automation**, **AI infrastructure**, **dev tools**, and **open-source**. Cheers!
 
-[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/jamsheedozzr/3c6eaedf50273adfb7a510822672f570/raw/general.svg">](#)
-[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/jamsheedozzr/3c6eaedf50273adfb7a510822672f570/raw/medias.svg?p">](#)
-[<img align="right" width="390" height="80" alt="🦑" src="https://gist.githubusercontent.com/jamsheedozzr/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
+[![Eli's GitHub Stats][github-readme-stats-vercel-app]][github-readme-stats]
 
-[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/jamsheedozzr/3c6eaedf50273adfb7a510822672f570/raw/sponsors.svg">](https://github.com/sponsors/lowlighter)
-[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/jamsheedozzr/3c6eaedf50273adfb7a510822672f570/raw/achievements.svg">](#)
+<!-- <div align="center">
+  <img src="/assets/svg/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
+</div> -->
 
-[<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/jamsheedozzr/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
+### Open Source Projects
 
-[<img align="right" alt="🦑" src="https://github.com/lowlighter/jamsheedozzr/assets/22963968/f03a6539-5f5e-4e29-8cc5-8f2138660440">](#)
+- **[ReadmeAI][readme-ai]**: Automated README file generator, powered by AI.
+- **[Markitecture][markitecture]**: Tools for modular documentation workflows and content management.
+- **[OpenAI Cookbook][openai-cookbook]**: Contributor to OpenAI's [Code Search Using Embeddings][openai-cookbook] guide.
 
+<!-- <div align="center">
+  <img src="/assets/svg/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
+</div> -->
 
+<!-- 
+### 🔷 Professional Experience
+
+- **Software Engineering, AI** @Capital One | _Present_
+- **Data Engineering** @United Airlines @GM
+- **M.S. in Computer Science** @University of Pennsylvania
+- **B.S. in Industrial Engineering** @Purdue University
+
+<div align="center">
+  <img src="/assets/svg/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
+</div>
+
+### 🔵 Connect
+-->
+
+### Let's Connect
+
+[<img src="https://www.svgrepo.com/show/46214/email.svg" width="25"/>][gmail]&emsp;
+[<img src="https://www.svgrepo.com/show/494209/linkedin.svg" width="25"/>][linkedin]&emsp;
+[<img src="https://simpleicons.org/icons/x.svg" width="25"/>][x]&emsp;
+
+<!-- <div align="center">
+  <img src="/assets/svg/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
+</div> -->
+
+<!-- REFERENCE LINKS -->
+<!-- GITHUB PROFILE STATS VERCEL APP -->
+[github-readme-stats-vercel-app]: https://github-readme-stats.vercel.app/api?username=eli64s
+[github-readme-stats]: https://github.com/anuraghazra/github-readme-stats
+
+<!-- OPEN SOURCE -->
+[readme-ai]: https://github.com/eli64s/readme-ai
+[markitecture]: https://github.com/eli64s/markitecture
+[openai-cookbook]: https://cookbook.openai.com/examples/code_search_using_embeddings
+
+<!-- CONTACT -->
+[gmail]: mailto:egsalamie@gmail.com
+[linkedin]: https://www.linkedin.com/in/salamieeli/
+[x]: https://x.com/zerox_eli
+
+<!-- SVG PROFILE BANNER ICON -->
+<!--
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/eli64s/eli64s/b605f837433a26010f4ebda2853ce4f89ae0986b/banner.svg">
+    <source media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/eli64s/eli64s/b605f837433a26010f4ebda2853ce4f89ae0986b/banner.svg">
+    <img alt="Profile Header" 
+    src="https://raw.githubusercontent.com/eli64s/eli64s/b605f837433a26010f4ebda2853ce4f89ae0986b/banner.svg" 
+    width="100%">
+  </picture>
+</div>
+-->
