@@ -152,6 +152,11 @@ You can click the Preview link to take a look at your changes.
 
 
 
+<div align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamsheedozzr&layout=compact&card_width=500&theme=tokyonight&hide_border=true"/>
+</div>
+
 
 
 
