@@ -147,10 +147,138 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/jamsheedozzr/github-readme-stats)
+<!-- ========================= HEADER ========================= -->
+<h1 align="center">👋 Hi, I'm <span style="color:#00F7FF;">Saheed Ibnu Jamsheed</span></h1>
+<h3 align="center">💙 Passionate Flutter Developer | Mobile App Creator | Tech Explorer</h3>
 
+<p align="center">
+  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" />
+</p>
 
+---
 
+<!-- ========================= ABOUT ========================= -->
+## 👨‍💻 About Me
 
+- 🚀 Flutter Developer  
+- 🎓 Completed **Diploma in Computer Engineering**  
+- 💡 Interested in Programming, Mobile Apps & UI/UX  
+- 📩 Reach me at **dev.jamsheed@gmail.com**  
+- 🎯 Goal: Build beautiful, high-performance mobile apps
+
+---
+
+<!-- ========================= SOCIAL LINKS ========================= -->
+## 🔗 Connect with Me
+
+<div align="center">
+  <a href="https://instagram.com/jamsheed_ozy" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://wa.me/9061528349" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://x.com/JamsheedOzzr" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<!-- ========================= SKILLS ========================= -->
+## 🛠️ Tech Stack (Colorful Badges Version)
+
+### 📱 Mobile Development
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
+
+### 🎨 Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### 🧠 Backend & Database
+<p align="center">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### ⚙️ Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+<!-- ========================= GITHUB STATS ========================= -->
+## 📊 GitHub Analytics (Neon Tokyo Theme)
+
+<div align="center">
+  <img height="180em" 
+       src="https://github-readme-stats.vercel.app/api?username=jamsheedozzr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamsheedozzr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+<!-- ========================= STREAK ========================= -->
+## 🔥 Contribution Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamsheedozzr&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+<!-- ========================= ACTIVITY GRAPH ========================= -->
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jamsheedozzr&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
+
+<!-- ========================= METRICS ========================= -->
+## 🧩 GitHub Metrics (All-in-One Overview)
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/jamsheedozzr?template=classic&languages=1&isocalendar=1&lines=1&stars=1&followup=1&repositories=1" width="90%"/>
+</div>
+
+---
+
+<!-- ========================= 3D CONTRIBUTION ========================= -->
+## 🧊 3D GitHub Contribution (Automatic Daily Update)
+
+> ⚠️ Make sure you added the GitHub Action for 3D Contribution Generator.
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-gitblock.svg" width="95%"/>
+</div>
+
+---
+
+<!-- ========================= SNAKE ANIMATION ========================= -->
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/jamsheedozzr/jamsheedozzr/blob/output/github-snake.svg" />
+</div>
+
+---
+
+<!-- ========================= FOOTER ========================= -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 
