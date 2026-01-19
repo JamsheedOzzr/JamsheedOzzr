@@ -137,11 +137,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jamsheedozzr&theme=tokyo-night&hide_border=true" />
-</div>
 
 
 
