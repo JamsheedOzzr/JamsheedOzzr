@@ -119,6 +119,22 @@ You can click the Preview link to take a look at your changes.
 ---
 
 
+![GitHub Profile Summary]
+(https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jamsheedozzr&theme=tokyonight)
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jamsheedozzr&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=jamsheedozzr&theme=tokyonight" height="170"/>
+</p>
+
+
+
+
+
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
