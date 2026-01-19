@@ -119,8 +119,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 
-![GitHub Profile Summary]
-(https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jamsheedozzr&theme=tokyonight)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jamsheedozzr&theme=tokyonight)
 
 
 
