@@ -9,9 +9,9 @@
 JamsheedOzzr/JamsheedOzzr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h2 align="center"> Hi 👋</h1>
-<h1 align="center"> I'm SAHEED IBNU JAMSHEED </h2>
-<h3 align="center">A passionate developer</h3>
+<h2 align="center"> Hi 👋, I'm </h1>
+<h1 align="center"> SAHEED IBNU JAMSHEED </h2>
+<h3 align="center">A Passionate Developer</h3>
 
 
 <div align="center">
