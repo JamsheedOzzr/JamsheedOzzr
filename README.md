@@ -137,10 +137,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  GITHUB STATISTICS                     -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -161,16 +157,9 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-<!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JamsheedOzzr&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
-</div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  ACTIVITY GRAPH                        -->
-<!-- ═══════════════════════════════════════════════════════ -->
 
 ## 📈 Contribution Activity
 
