@@ -146,9 +146,9 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 
 <!-- Stats Card + Top Languages — using anuraghazra1 personal deployment (official paused) -->
-<img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=SHANIB-C-K&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2&text_color=C9D1D9&custom_title=GitHub%20Stats&count_private=true&include_all_commits=true" alt="GitHub Stats" height="185"/>
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=JamsheedOzzr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2&text_color=C9D1D9&custom_title=GitHub%20Stats&count_private=true&include_all_commits=true" alt="GitHub Stats" height="185"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=SHANIB-C-K&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9&custom_title=Most%20Used%20Languages&langs_count=8" alt="Top Languages" height="185"/>
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=JamsheedOzzr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9&custom_title=Most%20Used%20Languages&langs_count=8" alt="Top Languages" height="185"/>
 
 </div>
 
@@ -156,14 +156,14 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Streak Stats — using DemoLab (reliable, maintained) -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=SHANIB-C-K&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=8A2BE2&currStreakLabel=00FFFF&sideLabels=C9D1D9&dates=888888" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=JamsheedOzzr&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=8A2BE2&currStreakLabel=00FFFF&sideLabels=C9D1D9&dates=888888" alt="GitHub Streak Stats" />
 </div>
 
 <br/>
 
 <!-- GitHub Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SHANIB-C-K&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JamsheedOzzr&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -175,7 +175,7 @@ You can click the Preview link to take a look at your changes.
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHANIB-C-K&bg_color=0D1117&color=00FFFF&line=8A2BE2&point=00FF88&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JamsheedOzzr&bg_color=0D1117&color=00FFFF&line=8A2BE2&point=00FF88&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" width="98%"/>
 </div>
 
 ---
