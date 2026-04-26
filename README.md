@@ -162,11 +162,6 @@ You can click the Preview link to take a look at your changes.
 ---
 
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JamsheedOzzr&bg_color=0D1117&color=00FFFF&line=8A2BE2&point=00FF88&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" width="98%"/>
-</div>
 
 ---
 
